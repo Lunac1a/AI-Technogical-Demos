@@ -2,4 +2,7 @@
 These demos contain a jupyte notebook with dataset or pictures, each demo presents a technology in Artificial Intelligence.
 
 ## Demo 1: A* Search
-I completed the A* method to search for the shortest way from one city to another city, with test case in the file.
+I completed A* algorithm to search for the shortest way from one city to another city, with dataset in the file.
+
+## Demo 2: Simulated Annealing in TSP
+I completed Simulated Annealing to solve the travelling salesman problem (TSP), with dataset in file.
