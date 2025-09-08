@@ -6,3 +6,6 @@ I completed A* algorithm to search for the shortest way from one city to another
 
 ## Demo 2: Simulated Annealing in TSP
 I completed Simulated Annealing to solve the travelling salesman problem (TSP), with dataset in file.
+
+## Demo 3: KNN Classifier
+I used K-Nearest Neighbour to classify the iris data.
