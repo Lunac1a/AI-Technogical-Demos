@@ -9,3 +9,9 @@ I completed Simulated Annealing to solve the travelling salesman problem (TSP), 
 
 ## Demo 3: KNN Classifier
 I used K-Nearest Neighbour to classify the iris data.
+
+## Demo 4: FNN Classifier
+I used the Diabetes Dataset to build a simple feedforward neural network (FNN) for a binary classification
+
+## Demo 5: Reinforcement Learning
+I uses Q-learning, a Reinforcement Learning (RL) algorithm, to solve a simple Gridworld problem
