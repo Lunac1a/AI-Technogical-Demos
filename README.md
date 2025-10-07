@@ -11,10 +11,10 @@ I have completed Simulated Annealing to solve the travelling salesman problem (T
 I used K-Nearest Neighbour to classify the iris data.
 
 ## Demo 4: FNN Classifier
-I used the Diabetes Dataset to build a simple feedforward neural network (FNN) for a binary classification
+I used the Diabetes Dataset to build a simple feedforward neural network (FNN) for a binary classification.
 
 ## Demo 5: Reinforcement Learning
-I used Q-learning, a Reinforcement Learning (RL) algorithm, to solve a simple Gridworld problem
+I used Q-learning, a Reinforcement Learning (RL) algorithm, to solve a simple Gridworld problem.
 
 ## Demo 6: Computer Vision
-I used CNN to make a classifier of Fashion-MNIST with Pytorch
+I used CNN to make a classifier of Fashion-MNIST with Pytorch.
