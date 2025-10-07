@@ -1,5 +1,5 @@
-# AI Technogical Demos
-These demos contain a jupyte notebook with dataset or pictures, each demo presents a technology in Artificial Intelligence.
+# AI Technological Demos
+These demos contain a Jupyter notebook with dataset or pictures, each demo presents a technology in Artificial Intelligence.
 
 ## Demo 1: A* Search
 I completed A* algorithm to search for the shortest way from one city to another city, with dataset in the file.
