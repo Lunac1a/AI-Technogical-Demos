@@ -18,3 +18,9 @@ I used Q-learning, a Reinforcement Learning (RL) algorithm, to solve a simple Gr
 
 ## Demo 6: Computer Vision
 I used CNN to make a classifier of Fashion-MNIST with Pytorch.
+
+## Demo 7: NLP
+I built a NLP model with `movie-review` dataset and Logistic Regression.
+
+## Demo 8: Generative AI
+I built an AutoEncoder Model that reconstructs handwritten digits.
